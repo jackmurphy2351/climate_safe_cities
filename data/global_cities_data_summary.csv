@@ -1,0 +1,6 @@
+city_name,country_name,country_iso,data_years,temperature_data_available,climate_data_available,economic_data_available,social_data_available
+New York,United States,USA,2015 - 2023,FALSE,TRUE,TRUE,TRUE
+London,United Kingdom,GBR,2015 - 2023,FALSE,TRUE,TRUE,TRUE
+Tokyo,Japan,JPN,2015 - 2023,FALSE,TRUE,TRUE,TRUE
+Mumbai,India,IND,2015 - 2023,FALSE,TRUE,TRUE,TRUE
+Sao Paulo,Brazil,BRA,2015 - 2023,FALSE,TRUE,TRUE,TRUE

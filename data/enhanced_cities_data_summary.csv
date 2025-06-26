@@ -1,0 +1,4 @@
+city_name,country_name,country_iso,data_years,weather_data_available,climate_data_available,economic_data_available,social_data_available,openweather_enhanced,urban_indicators_available
+New York,United States,USA,2018 - 2022,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+London,United Kingdom,GBR,2018 - 2022,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Tokyo,Japan,JPN,2018 - 2022,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE

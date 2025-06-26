@@ -1,0 +1,7 @@
+city,weather_data,climate_data,economic_data,social_data,total_datasets,analysis_ready
+London,TRUE,TRUE,TRUE,TRUE,4,TRUE
+Los Angeles,TRUE,TRUE,TRUE,TRUE,4,TRUE
+Mumbai,TRUE,TRUE,TRUE,TRUE,4,TRUE
+New York,TRUE,TRUE,TRUE,TRUE,4,TRUE
+Sao Paulo,TRUE,TRUE,TRUE,TRUE,4,TRUE
+Tokyo,TRUE,TRUE,TRUE,TRUE,4,TRUE
